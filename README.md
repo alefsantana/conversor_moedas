@@ -14,10 +14,11 @@ A aplicação consiste em um conversor de moedas, onde através do valor de uma 
 
 - Flutter
 - Json 
+- HG Finance API
 
 # Funcionalidades 📌
 
-- Medir conhecimento na Linguagem de Programação. 
+- Cotação das pricipais moedas para o Real. 
 
 
 # Como executar o projeto 📥
