@@ -1,16 +1,35 @@
-# conversor_moedas
+# Conversor de Moedas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alefsantana/conversor_moedas/blob/master/LICENSE) 
 
-A new Flutter application.
+# Sobre o projeto 📁
 
-## Getting Started
+O Conversor de Moedas é uma aplicação mobile construída com a **API** da [HG Finance](https://hgbrasil.com/ "Site da HG Finance").
 
-This project is a starting point for a Flutter application.
+A aplicação consiste em um conversor de moedas, onde através do valor de uma moeda voce pode obter a cotação de outras duas moedas.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile 📱
+![Mobile 1](https://github.com/alefsantana/assets/blob/main/Sequ%C3%AAncia%2001_7.gif) ![Mobile 2](https://github.com/alefsantana/assets/blob/main/moedas_1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Tecnologias utilizadas ⚙️
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Json 
+
+# Funcionalidades 📌
+
+- Medir conhecimento na Linguagem de Programação. 
+
+
+# Como executar o projeto 📥
+## No Emulador
+Execute o arquivo debug.apk
+
+## No Dispositivo Móvel  
+Execute o arquivo release.apk
+
+
+# Autor 👨‍🎓
+
+Alef Santana 
+
+https://www.linkedin.com/in/alef-santana-28a914133/
